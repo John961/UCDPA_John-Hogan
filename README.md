@@ -1,2 +1,2 @@
 # UCDPA_John-Hogan
-Final Project for data Analytics Course
+Final Project for Data Analytics Course
